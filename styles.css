@@ -1,0 +1,108 @@
+html,
+body,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five {
+  width: 50px;
+  color: white;
+  text-align: center;
+}
+
+.one {
+  background-color: green;
+}
+
+.two {
+  background-color: blue;
+}
+
+.three {
+  background-color: red;
+}
+
+.four {
+  background-color: purple;
+}
+
+.five {
+  background-color: orange;
+}
+
+.flex {
+  display: flex;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.row-reverse {
+  flex-direction: row-reverse;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.column-reverse {
+  flex-direction: column-reverse;
+}
+
+.jc-start {
+  justify-content: flex-start;
+}
+
+.jc-end {
+  justify-content: flex-end;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-baseline {
+  justify-content: baseline;
+}
+
+.jc-space-between {
+  justify-content: space-between;
+}
+
+.jc-space-around {
+  justify-content: space-around;
+}
+
+.jc-space-evenly {
+  justify-content: space-evenly;
+}
+
+.ai-start {
+  align-items: flex-start;
+}
+
+.ai-end {
+  align-items: flex-end;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.ai-baseline {
+  align-items: baseline;
+}
