@@ -63,6 +63,18 @@ body,
   flex-direction: column-reverse;
 }
 
+.no-wrap {
+  flex-wrap: nowrap;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
 .jc-start {
   justify-content: flex-start;
 }
