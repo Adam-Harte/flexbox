@@ -138,3 +138,15 @@ body,
 .shrink-three {
   flex-shrink: 3;
 }
+
+.grow-one {
+  flex-grow: 1;
+}
+
+.grow-two {
+  flex-grow: 2;
+}
+
+.grow-three {
+  flex-grow: 3;
+}
