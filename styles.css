@@ -122,3 +122,7 @@ body,
 .ai-baseline {
   align-items: baseline;
 }
+
+.ai-stretch {
+  align-items: stretch;
+}
