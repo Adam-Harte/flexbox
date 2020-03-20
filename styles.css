@@ -126,3 +126,15 @@ body,
 .ai-stretch {
   align-items: stretch;
 }
+
+.shrink-one {
+  flex-shrink: 1;
+}
+
+.shrink-two {
+  flex-shrink: 2;
+}
+
+.shrink-three {
+  flex-shrink: 3;
+}
