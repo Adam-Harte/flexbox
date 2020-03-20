@@ -150,3 +150,15 @@ body,
 .grow-three {
   flex-grow: 3;
 }
+
+.flex-basis-px {
+  flex-basis: 150px;
+}
+
+.flex-basis-em {
+  flex-basis: 10em;
+}
+
+.flex-basis-percent {
+  flex-basis: 15%;
+}
