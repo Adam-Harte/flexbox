@@ -47,6 +47,10 @@ body,
   display: flex;
 }
 
+.flex-inline {
+  display: inline-flex;
+}
+
 .row {
   flex-direction: row;
 }
