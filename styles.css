@@ -174,3 +174,15 @@ body,
 .flex-1-2-15 {
   flex: 1 2 15%;
 }
+
+.order-one {
+  order: 1;
+}
+
+.order-two {
+  order: 2;
+}
+
+.order-three {
+  order: 3;
+}
