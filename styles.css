@@ -127,27 +127,27 @@ body,
   align-items: stretch;
 }
 
-.shrink-one {
+.shrink-1 {
   flex-shrink: 1;
 }
 
-.shrink-two {
+.shrink-2 {
   flex-shrink: 2;
 }
 
-.shrink-three {
+.shrink-3 {
   flex-shrink: 3;
 }
 
-.grow-one {
+.grow-1 {
   flex-grow: 1;
 }
 
-.grow-two {
+.grow-2 {
   flex-grow: 2;
 }
 
-.grow-three {
+.grow-3 {
   flex-grow: 3;
 }
 
